@@ -15,11 +15,6 @@
 ## 🎯 **Mission Control Dashboard**
 
 <div align="center">
-
-<!-- Real-time GitHub stats with custom styling -->
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=cysecprp&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=cysecprp&theme=midnight-purple&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B35&currStreakLabel=00F7FF"/>
-
 </div>
 
 <!-- Custom progress bars -->
