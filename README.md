@@ -1,359 +1,127 @@
-# 🚀 CySecPrp - Cybersecurity Professional & Security Tool Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:003A40,100:00F7FF&height=210&section=header&text=Prajwal%20R%20Pattanshetti&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20Network%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20Security&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Prajwal R Pattanshetti: cybersecurity, network, cloud and AI security" />
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://cysecprp.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=45&lines=Cybersecurity+Engineering+Student;Software+Engineering+Intern+%C2%B7+Cloud+%26+Automation;Network+%E2%80%A2+Cloud+%E2%80%A2+AI+Security;Top+3%25+on+TryHackMe;Hack.+Learn.+Defend." alt="Cybersecurity engineering student, software engineering intern in cloud and automation, top 3% on TryHackMe" />
+  </a>
+</p>
 
-<!-- Animated typing effect header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Cybersecurity+Professional;Security+Tool+Developer;Penetration+Tester;SOC+Analyst;Bug+Hunter;Always+Learning%2C+Always+Securing)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://cysecprp.github.io/"><img src="https://img.shields.io/badge/Portfolio-cysecprp.github.io-00FFFF?style=for-the-badge&logo=githubpages&logoColor=00F7FF&labelColor=0D1117" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/prajwal-r-p2005"><img src="https://img.shields.io/badge/LinkedIn-prajwal--r--p2005-00FFFF?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwRjdGRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&labelColor=0D1117" alt="LinkedIn" /></a>
+  <a href="mailto:prajwalrajupattanshetti@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-00FFFF?style=for-the-badge&logo=gmail&logoColor=00F7FF&labelColor=0D1117" alt="Email" /></a>
+</p>
 
-<!-- Matrix-style animated banner -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🎯 **Mission Control Dashboard**
-
-<div align="center">
-</div>
-
-<!-- Custom progress bars -->
-```text
-🔥 Cybersecurity Mastery    ████████████████████████████████████████ 100%
-⚡ Python Security Tools    ███████████████████████████████████████░  95%
-🛡️ Network & Web Security   ████████████████████████████████████████ 100%
-🏆 Challenge Completions    ████████████████████████████████████████ 100%
-🎓 Continuous Learning      ████████████████████████████████████████ 100%
-```
-
----
-
-## 🛠️ **Professional Security Arsenal**
-
-<div align="center">
-
-<!-- Interactive project showcase -->
-<table>
-<tr>
-<td width="50%">
-
-### 🕷️ **Web Vulnerability Scanner v1.0**
-```python
-class CySecWebScanner:
-    def __init__(self):
-        self.phases = 6
-        self.methodology = "OWASP Top 10"
-        self.detection_rate = "Enterprise Grade"
-        self.author = "CySecPrp"
-    
-    def professional_assessment(self):
-        return "🎯 Zero-Day Ready ✅"
-```
-**🎯 Enterprise-Grade Security Tool**  
-`OWASP Methodology | SSL Analysis | Professional Reporting`
-
-</td>
-<td width="50%">
-
-### 🔍 **Network Reconnaissance Suite**
-```python
-class CySecNetScanner:
-    def __init__(self):
-        self.stealth_mode = "Advanced"
-        self.port_coverage = "Complete"
-        self.service_detection = "Professional"
-        
-    def tactical_scan(self):
-        return "🗺️ Complete Network Map Generated"
-```
-**🎯 Advanced Network Intelligence**  
-`Service Fingerprinting | SSL Assessment | Threat Detection`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## ⚡ **Live Security Operations Center**
-
-<div align="center">
-
-<!-- Real-time language stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cysecprp&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages"/>
-
-</div>
-
-<!-- Custom metrics with professional achievements -->
-<div align="center">
-
-| 🎯 **Security Operations** | 📊 **Metrics** | 🏆 **Status** |
-|:---|:---:|:---:|
-| Professional Security Tools Built | 5+ | 🔥 Production Ready |
-| OverTheWire Bandit Completion | 100% | 🏆 Master Level |
-| TryHackMe Rooms Completed | 10+ | 🥇 Active Hunter |
-| Security Challenges Solved | 50+ | ⚡ Problem Solver |
-| Days of Intensive Learning | 7+ | 📈 Accelerated Growth |
-
-</div>
-
----
-
-## 🔬 **CySecPrp Technology Stack**
-
-<div align="center">
-
-<!-- Animated skill badges -->
-<img src="https://skillicons.dev/icons?i=python,linux,bash,docker,git,vscode,kali,windows&theme=dark" />
-
-</div>
-
-<!-- Technical expertise matrix -->
-<table align="center">
-<tr>
-<td width="50%">
-
-**🔐 Offensive Security Arsenal:**
-- **Web Security**: `OWASP Testing | Burp Suite | Custom Scanners`
-- **Network Security**: `Nmap | Wireshark | Custom Recon Tools`
-- **System Security**: `Linux Mastery | Privilege Escalation`
-- **Tool Development**: `Python Automation | Professional Tools`
-
-</td>
-<td width="50%">
-
-**⚡ Professional Development:**
-- **Core Languages**: `Python | Bash | PowerShell`
-- **Security Frameworks**: `OWASP | NIST | Custom Solutions`
-- **Platforms Mastered**: `Kali Linux | Ubuntu | Windows 10`
-- **Challenge Platforms**: `OverTheWire | TryHackMe | HackTheBox`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 **Hall of CySecPrp Achievements**
-
-<div align="center">
-
-<!-- Custom achievement badges with CySecPrp branding -->
-<img src="https://img.shields.io/badge/🏆_CySecPrp-Security_Tool_Developer-gold?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🥇_Bandit_Master-100%25_Complete-red?style=for-the-badge&logo=linux" />
-<img src="https://img.shields.io/badge/🛡️_Web_Security-Professional_Scanner-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🔥_Network_Recon-Advanced_Tools-darkred?style=for-the-badge" />
-
-</div>
-
-<!-- Animated achievement timeline -->
-<div align="center">
-
-### 🎖️ **Recent Security Victories**
-```
-🏆 2025-01-19 | Built Enterprise Web Vulnerability Scanner     | Professional Tool
-🥇 2025-01-18 | Completed OverTheWire Bandit 100%             | Challenge Master  
-🔥 2025-01-17 | Developed Advanced Network Reconnaissance     | Security Innovation
-⚡ 2025-01-16 | Mastered Multi-OS Security Lab Environment    | Infrastructure Pro
-🛡️ 2025-01-15 | Created Professional Security Assessment     | Industry Standard
-```
-
-</div>
-
----
-
-## 🎮 **CySecPrp Challenge Board**
-
-<div align="center">
-
-<!-- Platform completion badges -->
-<img src="https://img.shields.io/badge/OverTheWire_Bandit-100%25_COMPLETE-brightgreen?style=flat-square&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/TryHackMe-Active_Hunter-blue?style=flat-square&logo=tryhackme&logoColor=white" />
-<img src="https://img.shields.io/badge/Security%2B-Foundation_Built-orange?style=flat-square&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/Python_Security-Advanced_Level-yellow?style=flat-square&logo=python&logoColor=white" />
-
-</div>
-
----
-
-## 📊 **Live Development Activity**
-
-<div align="center">
-
-<!-- Dynamic commit activity -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cysecprp&bg_color=0D1117&color=00F7FF&line=FF6B35&point=FFFFFF&area=true&hide_border=true" alt="CySecPrp Activity Graph"/>
-
-</div>
-
-<!-- Recent security operations -->
-<details>
-<summary><b>📡 Recent CySecPrp Security Operations</b></summary>
-<br>
+<br />
 
 ```bash
-[2025-01-20 16:45] 🔥 DEPLOYED: Web Vulnerability Scanner v1.0 - Enterprise Ready
-[2025-01-19 23:30] 🎯 COMPLETED: Advanced Python Security Programming Module
-[2025-01-18 20:15] 🛡️ MASTERED: Multi-phase OWASP Security Assessment Methodology
-[2025-01-17 18:20] ⚡ BUILT: Professional Network Reconnaissance Framework
-[2025-01-16 22:00] 🏆 CONQUERED: OverTheWire Bandit Challenge Series (100%)
-[2025-01-15 19:45] 🔍 ESTABLISHED: Complete Tri-OS Security Lab Environment
-[2025-01-14 21:30] 📚 COMPLETED: Intensive Linux Command Mastery Training
+┌──(prajwal㉿cysecprp)-[~]
+└─$ whoami
+Prajwal R Pattanshetti · cybersecurity engineering student · software engineering intern
+
+┌──(prajwal㉿cysecprp)-[~]
+└─$ cat profile.txt
+[+] study     B.Tech CSE (Cyber Security) · Dayananda Sagar University · 2023-2027
+[+] work      Software Engineering Intern · Cloud and Automation · General Motors
+[+] focus     network security · cloud automation · AI-driven threat detection
+[+] research  ZT-DT · zero-trust digital twin · industrial CPS · IEEE NMITCON 2025
+[+] rank      top 3% globally on TryHackMe
+[+] lab       TryHackMe · OverTheWire Bandit · Kali · Ubuntu · Windows
 ```
 
-</details>
+## 🛡️ Featured projects
 
----
-
-## 🌐 **CySecPrp Command Center**
-
-<div align="center">
-
-<!-- Professional contact matrix -->
 <table>
-<tr>
-<td align="center">
-
-**🎯 Professional Network**
-<br><br>
-[![Portfolio](https://img.shields.io/badge/CySecPrp_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://cysecprp.dev)
-<br>
-[![LinkedIn](https://img.shields.io/badge/Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cysecprp)
-
-</td>
-<td align="center">
-
-**🔬 Security Research**
-<br><br>
-[![TryHackMe](https://img.shields.io/badge/CySecPrp_THM-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/cysecprp)
-<br>
-[![HackTheBox](https://img.shields.io/badge/CySecPrp_HTB-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com/profile/cysecprp)
-
-</td>
-<td align="center">
-
-**💬 Security Community**
-<br><br>
-[![Discord](https://img.shields.io/badge/CySecPrp_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cysecprp)
-<br>
-[![Twitter](https://img.shields.io/badge/@CySecPrp-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cysecprp)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 ZT-DT · Zero-Trust Digital Twin</h3>
+      <p>Real-time anomaly detection for industrial cyber-physical systems. An Isolation Forest twin scores every sensor reading, and an EMA trust engine answers <code>ALLOW</code>, <code>RESTRICT</code> or <code>ISOLATE</code>. Team research prototype, published at IEEE NMITCON 2025.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=00F7FF" alt="Python" />
+        <img src="https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=00F7FF" alt="scikit-learn" />
+        <img src="https://img.shields.io/badge/Streamlit-161B22?style=flat-square&logo=streamlit&logoColor=00F7FF" alt="Streamlit" />
+        <a href="https://github.com/CYSECPRP/zt-dt-industrial-cps/stargazers"><img src="https://img.shields.io/github/stars/CYSECPRP/zt-dt-industrial-cps?style=flat-square&logo=github&label=Stars&labelColor=161B22&color=00FFFF" alt="GitHub stars" /></a>
+      </p>
+      <a href="https://github.com/CYSECPRP/zt-dt-industrial-cps"><b>Code</b></a> · <a href="https://doi.org/10.1109/NMITCON65824.2025.11188236"><b>Paper</b></a> · <a href="https://cysecprp.github.io/projects/zt-dt"><b>Case study</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎭 DeepGuard</h3>
+      <p>AI-powered defense against deepfake identity fraud: live camera authenticity checks, lip-sync and facial-movement analysis, and risk scoring, designed to analyze video and audio in under 2 seconds.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=00F7FF" alt="Python" />
+        <img src="https://img.shields.io/badge/OpenCV-161B22?style=flat-square&logo=opencv&logoColor=00F7FF" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat-square&logo=tensorflow&logoColor=00F7FF" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/status-in%20progress-00FFFF?style=flat-square&labelColor=161B22" alt="Status: in progress" />
+      </p>
+      <a href="https://cysecprp.github.io/projects/deepguard"><b>Case study</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕷️ Web Application Security Scanner</h3>
+      <p>OWASP-aligned vulnerability scanner for XSS, SQL injection, directory traversal, security headers and SSL/TLS, with severity-rated JSON and HTML reports.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=00F7FF" alt="Python" />
+        <img src="https://img.shields.io/badge/OWASP-161B22?style=flat-square&logo=owasp&logoColor=00F7FF" alt="OWASP" />
+        <img src="https://img.shields.io/badge/Shell-161B22?style=flat-square&logo=gnubash&logoColor=00F7FF" alt="Shell" />
+      </p>
+      <a href="https://github.com/CYSECPRP/Professional-Web-Application-Security-Scanner"><b>Code</b></a> · <a href="https://cysecprp.github.io/projects/web-security-scanner"><b>Case study</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 Network Scanner</h3>
+      <p>Raw-packet reconnaissance with Scapy. ARP sweeps map IP-to-MAC addresses across a subnet, and TCP SYN scans reveal which ports are open.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=00F7FF" alt="Python" />
+        <img src="https://img.shields.io/badge/Scapy-161B22?style=flat-square" alt="Scapy" />
+        <img src="https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=00F7FF" alt="Linux" />
+      </p>
+      <a href="https://github.com/CYSECPRP/Network-Scanner"><b>Code</b></a> · <a href="https://cysecprp.github.io/projects/network-scanner"><b>Case study</b></a>
+    </td>
+  </tr>
 </table>
 
-</div>
+<p align="center"><a href="https://cysecprp.github.io/projects"><b>More projects and case studies on my portfolio →</b></a></p>
 
----
+## 🧰 Arsenal
 
-## 🚀 **CySecPrp Security Lab**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,bash,postgres,ts,react,linux,kali,ubuntu,windows,aws,gcp,docker,git,githubactions,tensorflow,opencv&theme=dark&perline=8" alt="Python, Bash, PostgreSQL, TypeScript, React, Linux, Kali Linux, Ubuntu, Windows, AWS, Google Cloud, Docker, Git, GitHub Actions, TensorFlow, OpenCV" />
+</p>
 
-<!-- ASCII art professional lab setup -->
-```ascii
-    ╭─────────────────────────────────────────────────────╮
-    │  🚀 CYSECPRP CYBERSECURITY COMMAND CENTER v1.0     │
-    ├─────────────────────────────────────────────────────┤
-    │                                                     │
-    │  🖥️  Kali Linux    │ 🐧 Ubuntu Server │ 🪟 Win10   │
-    │  ⚡ Attack Tools   │ 🛡️ SOC Platform  │ 🔍 Analysis │
-    │                                                     │
-    │  💻 Currently Building: AI-Enhanced Threat Hunter  │
-    │  🎯 Next Mission: Advanced Malware Analysis Lab    │  
-    │  📊 Success Rate: 98.7% | Security Level: MAX     │
-    │                                                     │
-    │  🛡️ "Transforming curiosity into cybersecurity    │
-    │      expertise, one vulnerability at a time"      │
-    │                                  - CySecPrp       │
-    ╰─────────────────────────────────────────────────────╯
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-161B22?style=for-the-badge&logo=wireshark&logoColor=00F7FF" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-161B22?style=for-the-badge" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-161B22?style=for-the-badge&logo=burpsuite&logoColor=00F7FF" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Scapy-161B22?style=for-the-badge" alt="Scapy" />
+  <img src="https://img.shields.io/badge/OWASP-161B22?style=for-the-badge&logo=owasp&logoColor=00F7FF" alt="OWASP" />
+  <img src="https://img.shields.io/badge/scikit--learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=00F7FF" alt="scikit-learn" />
+</p>
 
----
+## 🏆 Achievements
 
-## 🎯 **CySecPrp Learning Philosophy**
+- 🥇 **Top 3% globally on TryHackMe**: system analysis, network diagnostics and threat detection
+- 📄 **IEEE NMITCON 2025**: team prototype for _Zero Trust-Enabled Digital Twins for Real-Time Anomaly Detection in Industrial Cyber-Physical Systems_ ([DOI](https://doi.org/10.1109/NMITCON65824.2025.11188236))
+- 🏅 **2nd Runner-up, DSU Cybersecurity Hackathon**: built an automated compliance scanning tool
+- 🎓 **Microsoft Professional Cybersecurity Certificate**
 
-<div align="center">
+## 🐍 Contributions
 
-### **"From Zero to Cybersecurity Professional in Record Time"**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CYSECPRP/CYSECPRP/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CYSECPRP/CYSECPRP/output/github-snake.svg" />
+    <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/CYSECPRP/CYSECPRP/output/github-snake.svg" />
+  </picture>
+</p>
 
-<!-- Progress showcase -->
-<img src="https://img.shields.io/badge/JOURNEY_START-Complete_Beginner-lightgrey?style=for-the-badge" />
-<img src="https://img.shields.io/badge/→-TRANSFORMATION-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CURRENT_STATUS-Security_Professional-brightgreen?style=for-the-badge" />
+## 📡 Let's connect
 
-**📈 Accelerated Learning Metrics:**
-- **Day 1-3**: Linux mastery from complete beginner to advanced user
-- **Day 4-6**: Python programming from basics to professional security tools
-- **Week 1**: Built enterprise-grade security assessment framework
-- **Ongoing**: Continuous skill enhancement and tool development
+I'm open to security internships, research collaborations and graduate roles. Reach me at **[prajwalrajupattanshetti@gmail.com](mailto:prajwalrajupattanshetti@gmail.com)**, on **[LinkedIn](https://www.linkedin.com/in/prajwal-r-p2005)** or through my **[portfolio](https://cysecprp.github.io/)**.
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cysecprp&label=Profile%20views&color=0E7490&style=flat-square" alt="Profile views" />
+</p>
 
----
-
-## 🔥 **What Makes CySecPrp Different**
-
-<table align="center">
-<tr>
-<td width="33%">
-
-### 🚀 **Rapid Skill Acquisition**
-- Zero to professional in weeks
-- Intensive hands-on approach
-- Real-world tool development
-- Industry-standard practices
-
-</td>
-<td width="33%">
-
-### 🛠️ **Professional Tool Development**
-- Enterprise-grade security scanners
-- OWASP methodology implementation
-- Clean, documented, maintainable code
-- Production-ready applications
-
-</td>
-<td width="33%">
-
-### 🎯 **Challenge Domination**
-- 100% OverTheWire Bandit completion
-- Advanced TryHackMe pathways
-- Complex problem-solving skills
-- Persistent and systematic approach
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### 🎯 **"Code. Hack. Secure. Dominate."**
-
-<!-- Visitor counter with CySecPrp branding -->
-![Visitor Count](https://komarev.com/ghpvc/?username=cysecprp&color=00F7FF&style=flat-square&label=CYSECPRP+PROFILE+VISITS)
-
-<!-- Current status indicator -->
-<img src="https://img.shields.io/badge/STATUS-Building_Advanced_Security_Tools-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AVAILABILITY-Open_for_Security_Projects-blue?style=for-the-badge" />
-
-**⚡ CySecPrp: Where rapid learning meets professional cybersecurity excellence.**
-
----
-
-### 📧 **Ready to Collaborate on Security Projects?**
-
-<img src="https://img.shields.io/badge/Email-cysecprp%40protonmail.com-red?style=for-the-badge&logo=protonmail&logoColor=white" />
-
----
-
-*🛡️ "In the rapidly evolving world of cybersecurity, CySecPrp represents the new generation of security professionals: fast-learning, tool-building, challenge-conquering, and always ready for the next threat."*
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=CySecPrp%20-%20Securing%20Tomorrow&fontSize=35&fontColor=fff&animation=twinkling"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,45:003A40,100:0D1117&height=120&section=footer" width="100%" alt="" />
