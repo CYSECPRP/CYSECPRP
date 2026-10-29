@@ -35,6 +35,19 @@ Prajwal R Pattanshetti · cybersecurity engineering student · software engineer
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>🧾 Automated Integration &amp; Documentation Engine</h3>
+      <p>Governed IT automation built from scratch. It integrates with GitHub and cloud configuration, enforces 17 policy-as-code checks, gates every fix behind an approval bound to the plan's SHA-256 digest, ships changes as pull requests and writes its own compliance documentation on a hash-chained audit trail. An open-source rebuild of my <b>DSU Cybersecurity Hackathon</b> project (2nd Runner-up) that now runs every week in GitHub Actions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=00F7FF" alt="Python" />
+        <img src="https://img.shields.io/badge/GitHub%20Actions-161B22?style=flat-square&logo=githubactions&logoColor=00F7FF" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/Policy%20as%20code-161B22?style=flat-square" alt="Policy as code" />
+        <a href="https://github.com/CYSECPRP/automated-integration-documentation-engine/actions/workflows/govern.yml"><img src="https://github.com/CYSECPRP/automated-integration-documentation-engine/actions/workflows/govern.yml/badge.svg" alt="Weekly governance run status" /></a>
+      </p>
+      <a href="https://github.com/CYSECPRP/automated-integration-documentation-engine"><b>Code</b></a> · <a href="https://cysecprp.github.io/automated-integration-documentation-engine/"><b>Live report</b></a> · <a href="https://cysecprp.github.io/projects/governance-engine"><b>Case study</b></a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🔐 ZT-DT · Zero-Trust Digital Twin</h3>
       <p>Real-time anomaly detection for industrial cyber-physical systems. An Isolation Forest twin scores every sensor reading, and an EMA trust engine answers <code>ALLOW</code>, <code>RESTRICT</code> or <code>ISOLATE</code>. Team research prototype, published at IEEE NMITCON 2025.</p>
@@ -103,7 +116,7 @@ Prajwal R Pattanshetti · cybersecurity engineering student · software engineer
 
 - 🥇 **Top 3% globally on TryHackMe**: system analysis, network diagnostics and threat detection
 - 📄 **IEEE NMITCON 2025**: team prototype for _Zero Trust-Enabled Digital Twins for Real-Time Anomaly Detection in Industrial Cyber-Physical Systems_ ([DOI](https://doi.org/10.1109/NMITCON65824.2025.11188236))
-- 🏅 **2nd Runner-up, DSU Cybersecurity Hackathon**: built an automated compliance scanning tool
+- 🏅 **2nd Runner-up, DSU Cybersecurity Hackathon**: built an automated compliance scanning tool, since rebuilt as an [open-source governance engine](https://github.com/CYSECPRP/automated-integration-documentation-engine)
 - 🎓 **Microsoft Professional Cybersecurity Certificate**
 
 ## 🐍 Contributions
